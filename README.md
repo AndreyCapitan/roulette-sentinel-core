@@ -78,4 +78,10 @@ roulette_sentinel_core/
 
 (Информация о лицензии будет добавлена позже. По умолчанию, если не указано иное, код предоставляется без лицензии или с проприетарной лицензией владельца репозитория).
 
-
+# git clone https://github.com/AndreyCapitan/roulette-sentinel-core.git
+# cd roulette-sentinel-core
+# python -m venv venv
+# venv\Scripts\activate
+# pip install -r requirements.txt
+# python bot.py
+# извините не знаю куда тут такое можно сохранить. это из под баш жмется.
