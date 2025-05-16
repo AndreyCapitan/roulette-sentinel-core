@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
